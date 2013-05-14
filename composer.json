@@ -1,5 +1,5 @@
 {
-    "name": "firegoby/addrewriteep",
+    "name": "firegoby/add-rewrite-ep",
     "description": "Simple WordPress rewrite class",
     "keywords": ["WordPress", "rewrite"],
     "type": "library",
@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Firegoby_AddRewriteEP": "lib/"
+            "AddRewriteEP": "lib/"
         }
     }
 }

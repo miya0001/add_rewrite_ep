@@ -1,8 +1,8 @@
 <?php
 
-if (!class_exists('Firegoby_AddRewriteEP')) :
+if (!class_exists('AddRewriteEP')) :
 
-class Firegoby_AddRewriteEP {
+class AddRewriteEP {
 
 private $ep;
 private $mask;
