@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-0": {
-            "firegoby_addrewriteep": "lib/"
+            "Firegoby_AddRewriteEP": "lib/"
         }
     }
 }
