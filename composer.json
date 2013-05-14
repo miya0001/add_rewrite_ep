@@ -1,15 +1,16 @@
 {
-    "name": "miya0001/add_rewrite_ep",
+    "name": "firegoby/addrewriteep",
     "description": "Simple WordPress rewrite class",
     "keywords": ["WordPress", "rewrite"],
     "type": "library",
     "license": "MIT",
+    "version": "0.1.0",
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.2"
     },
     "autoload": {
         "psr-0": {
-            "add_rewrite_ep": "lib/"
+            "addrewriteep": "lib/"
         }
     }
 }
