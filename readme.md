@@ -24,7 +24,7 @@
 
 ## How to use
 
-    $app = new AddRewriteEP('app', 'my_callback');
+    $app = new Firegoby_AddRewriteEP('app', 'my_callback');
     $app->register();
     function my_callback(){
         echo 'some contents';
