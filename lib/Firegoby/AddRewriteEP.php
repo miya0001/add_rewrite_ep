@@ -5,6 +5,7 @@ if (!class_exists('Firegoby_AddRewriteEP')) :
 class Firegoby_AddRewriteEP {
 
 private $ep;
+private $callback;
 private $mask;
 
 function __construct($ep, $callback, $mask = EP_ROOT)
